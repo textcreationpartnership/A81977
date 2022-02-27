@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The profession of the faith of that reverend and worthy divine Mr. J. D. sometimes preacher of Stevens Coleman-street. London. Made publiquely before the congregation at his admission into one of the churches of God in New-England. Containing twenty severall heads as it was drawn from his own copy. viz. 1. Concerning the scriptures. 2. Concerning the Godhead in the unity of essence, and trinity of persons. 3. Concerning the decrees of God. 4. Concerning creation, and providence. 5. Concerning the fall of man and originall sin. 6. Concerning mans restitution. 7. Concerning the person and natures in Christ. 8. Concerning the offices of Christ. 9. Concerning Christs propheticall office. 10. Concerning the priesthood of Christ. 11. Concerning Christs kingly office. 1. in generall. 12. Concerning his kingdom. 2. In speciall. 13. Concerning the application of redemption. 14. Concerning a particular instituted church, and the priviledges therof. 15. Concerning the manner of gathering a church. 16. Concerning the sacraments. 17. Concerning the power of every church. 18. Concerning the communion of churches. 19. Concerning church officers. 20. Concerning giving every man his due.</title>
+            <author>Davenport, John, 1597-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81977</idno>
+            <idno type="STC">Wing D364</idno>
+            <idno type="STC">Thomason E135_39</idno>
+            <idno type="STC">ESTC R16075</idno>
+            <idno type="EEBO-CITATION">99859966</idno>
+            <idno type="PROQUEST">99859966</idno>
+            <idno type="VID">112070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112070)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The profession of the faith of that reverend and worthy divine Mr. J. D. sometimes preacher of Stevens Coleman-street. London. Made publiquely before the congregation at his admission into one of the churches of God in New-England. Containing twenty severall heads as it was drawn from his own copy. viz. 1. Concerning the scriptures. 2. Concerning the Godhead in the unity of essence, and trinity of persons. 3. Concerning the decrees of God. 4. Concerning creation, and providence. 5. Concerning the fall of man and originall sin. 6. Concerning mans restitution. 7. Concerning the person and natures in Christ. 8. Concerning the offices of Christ. 9. Concerning Christs propheticall office. 10. Concerning the priesthood of Christ. 11. Concerning Christs kingly office. 1. in generall. 12. Concerning his kingdom. 2. In speciall. 13. Concerning the application of redemption. 14. Concerning a particular instituted church, and the priviledges therof. 15. Concerning the manner of gathering a church. 16. Concerning the sacraments. 17. Concerning the power of every church. 18. Concerning the communion of churches. 19. Concerning church officers. 20. Concerning giving every man his due.</title>
+                  <author>Davenport, John, 1597-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Handcock at the Bible in Burchin-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymously published by John Davenport.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112070:1" rendition="simple:additions"/>
+            <p>THE PROFESSION OF THE FAITH OF THAT REVEREND and worthy Divine M<hi rend="sup">r</hi>. <hi>J. D.</hi> ſome<g ref="char:EOLhyphen"/>times Preacher of <hi>Stevens Coleman</hi>-ſtreet. LONDON. Made publiquely before the Congrega<g ref="char:EOLhyphen"/>tion at his Admiſſion into one of the Churches of GOD in NEW-ENGLAND. Containing twenty ſeverall heads as it was drawn from his own Copy. <hi>viz.</hi>
+               <list>
+                  <item>1. Concerning the Scriptures.</item>
+                  <item>2. Concerning the Godhead in the unity of eſſence, and Trinity of perſons.</item>
+                  <item>3. Concerning the Decrees of God.</item>
+                  <item>4. Concerning the Creation, and Provi<g ref="char:EOLhyphen"/>dence.</item>
+                  <item>5. Concerning the fall of man and originall ſin.</item>
+                  <item>6. Concerning mans Reſtitution.</item>
+                  <item>7. Concerning the Perſon and natures in Chriſt.</item>
+                  <item>8. Concerning the offices of Chriſt.</item>
+                  <item>9. Concerning Chriſts propheticall office.</item>
+                  <item>10. Concerning the Prieſthood of Chriſt.</item>
+                  <item>11. Concerning Chriſts kingly office. 1. in generall.</item>
+                  <item>12. Concerning his Kingdom. 2. In ſpeciall.</item>
+                  <item>13. Concerning the Application of Redemption.</item>
+                  <item>14. Concerning a particular inſtituted Church, and the Priviledges therof.</item>
+                  <item>15. Concerning the manner of gather<g ref="char:EOLhyphen"/>ing a Church.</item>
+                  <item>16. Concerning the Sacraments.</item>
+                  <item>17. Concerning the power of every Church.</item>
+                  <item>18. Concerning the communion of Churches.</item>
+                  <item>19. Concerning Church Officers.</item>
+                  <item>20. Concerning giving every man his due.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Handcock</hi> at the Bible in Burchin-Lane. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="2" facs="tcp:112070:2"/>
+               <head>I beleeve with all my heart, and confeſſe with my mouth.</head>
+               <head>1<g ref="char:punc">▪</g> Concerning the Scriptures.</head>
+               <p>THat all Scripture is by divine inſpiration, or inbreathing of God (by Scripture I mean the books of the old Teſtament as <hi>Moſes</hi> and the Prophets, and of the new Teſtament) and is profitable for doctrine, for reproofe, for correction, for inſtru<g ref="char:EOLhyphen"/>ction in righteouſneſſe, that the man of God may be perfect, throughly furniſhed unto all good works. 1 <hi>Tim.</hi> 3.16, 17. and that in all things which concern faith, and obedience, whether in Gods worſhip, or in the whole converſation of men, it holdeth forth a moſt perfect rule, whereunto nothing may be added, not from it may ought be diminiſhed. <hi>Deut.</hi> 4.2. <hi>Revel.</hi> 22.18, 19. Which al<g ref="char:EOLhyphen"/>ſo is ſo clear in all truths neceſſary to ſalvation, that the entrance into it giveth light, yea, underſtanding to the ſimple. <hi>Pſal.</hi> 19 7.</p>
+            </div>
+            <div type="part">
+               <head>2. <hi>Concerning the Godhead in the</hi>
+                  <list>
+                     <item>
+                        <hi>Vnity of Eſſence, and</hi>
+                     </item>
+                     <item>
+                        <hi>Trinity of Perſons.</hi>
+                     </item>
+                  </list>
+               </head>
+               <p>That God is a Spirit moſt holy, immutable, eternall, every way infinite, in greatneſſe, goodneſſe, power, wiſedome, juſtice, truth, and in all divine perfections, 1 <hi>Tim.</hi> 6.15, 16. <hi>Joh.</hi> 4.24. <hi>Iſa.</hi> 6.6. <hi>Exod.</hi> 34.6, 7. And that in this Godhead are three diſtinct Per<g ref="char:EOLhyphen"/>ſons, coeternall, coequall, and coeſſentiall, being every one of them one and the ſame God, not three Gods, and therefore not divided in eſſence, nature, or being, <hi>Deut.</hi> 4.3. but diſtinguiſhed one from another by their ſeverall, and peculiar relative property, the Father is of none but of himſelf, the Son is begotten of the Father before all worlds; the holy Ghoſt proceedeth from the Father and the Son<g ref="char:punc">▪</g> from all eternity, and together are to be worſhipped and glorified.</p>
+            </div>
+            <div type="part">
+               <head>3. <hi>Concerning the Decrees of God.</hi>
+               </head>
+               <p>That God hath unchangeably decreed in himſelf from everlaſt<g ref="char:EOLhyphen"/>ing, touching all things, great and ſmall, neceſſary, contingent, and voluntary, with all the circumſtances of them, to work, and diſpoſe them according to the counſell of his own will (yet with<g ref="char:EOLhyphen"/>out being Author of, or having fellowſhip with the ſins of any) to the praiſe and glory of his great Name. And touching the eter<g ref="char:EOLhyphen"/>nall eſtate of men that God hath according to his moſt wiſe, free, and unchangeable purpoſe in himſelf, before the foundation of the world choſen ſome in Jeſus Chriſt to eternall life, to the praiſe and glory of his grace, and rejected or reprobated others to the praiſe of his juſtice.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:112070:2"/>
+               <head>4. <hi>Concerning Creation, and Providence.</hi>
+               </head>
+               <p>That in the beginning God made by his Word all things of nothing very good, and made man male and female after his own Image righteous; and as a faithfull Creator doth ſtill uphold, diſ<g ref="char:EOLhyphen"/>poſe, and govern all things to the ends for which they were crea<g ref="char:EOLhyphen"/>ted, having care eſpecially for man, and amongſt men chiefly for the righteous and beleevers; ſo that neither good nor evil befalls any man without Gods providence.</p>
+            </div>
+            <div type="part">
+               <head>5. <hi>Concerning the fall of man and originall ſin.</hi>
+               </head>
+               <p>That inaſmuch as <hi>Adam</hi> was the root of all mankinde, the law and covenant of works was given to him, as to a publike perſon, and to an head from whence all good or evil was to be derived to his poſteritie: ſeeing therefore that by the ſubtilty of the Serpent, which Satan uſed as his inſtrument, firſt <hi>Eve,</hi> then <hi>Adam</hi> being ſe<g ref="char:EOLhyphen"/>duced, did wittingly and willingly fall into the diſobedience of the Commandment of God; Death came upon all juſtly, and reigned over all, yea, over Infants alſo which have not ſinned after the like manner of the tranſgreſſion of <hi>Adam:</hi> hence alſo it is, that all ſince the fall of <hi>Adam</hi> are begotten in his own likeneſſe, after his Image, being conceived and born in iniquitie, and ſo by nature children of wrath, dead in treſpaſſes and ſins, altogether filthie and polluted throughout in ſoul and body; utterly averſe from any ſpirituall good, ſtrongly bent to all evill, and ſubject to all ca<g ref="char:EOLhyphen"/>lamities due to ſin in this world, and forever.</p>
+            </div>
+            <div type="part">
+               <head>6. <hi>Concerning mans Reſtitution.</hi>
+               </head>
+               <p>That all Mankind being thus fallen, yet the elect, and only they, are redeemed, reconciled to God, and ſaved not of themſelves, neither by their own works, but onely by the mighty power of God, of his unſearchable, rich, free grace and mercy through faith, in Jeſus Chriſt, who of God is made unto us wiſedom, righ<g ref="char:EOLhyphen"/>teouſneſſe, ſanctification, and redemption; in the relation both of a ſurety to ſatisfie Gods juſtice for us, and of an head to reſtore the Image of God that was loſt, and repaire the nature that was corrupted in us.</p>
+            </div>
+            <div type="part">
+               <head>7. <hi>Concerning the Perſon and natures in Chriſt.</hi>
+               </head>
+               <p>That the Lord Jeſus of whom <hi>Moſes</hi> and the Prophets wrote, and whom the Apoſtles preached, is, as touching his Perſon, the everlaſting Son of God the Father by eternall generation, coeſ<g ref="char:EOLhyphen"/>ſentiall, coequall, and coeternall, God with him, and with the ho<g ref="char:EOLhyphen"/>ly Ghoſt: by whom he made the world, and by whom he up<g ref="char:EOLhyphen"/>holdeth and governs all the works he hath made: who alſo when
+<pb n="4" facs="tcp:112070:3"/>the fulneſſe of time was come, was made of a woman, of the Tribe of <hi>Judah,</hi> of the ſeed of <hi>David</hi> and <hi>Abraham, viz.</hi> of <hi>Mary</hi> that bleſſed Virgin, by the holy Ghoſt coming upon her, and the power of the moſt high over-ſhadowing her; and was in all things like unto us, ſin onely excepted: ſo that in the perſon of Chriſt the two natures, the divine, and humane, are truly, perfectly, indi<g ref="char:EOLhyphen"/>viſibly, and diſtinctly united.</p>
+            </div>
+            <div type="part">
+               <head>8. <hi>Concerning the Offices of Chriſt.</hi>
+               </head>
+               <p>That Jeſus Chriſt is the onely Mediatour of the new Teſta<g ref="char:EOLhyphen"/>ment, even of the Covenant of grace between God and man; the Prophet, Prieſt, and King of the Church of God for evermore; and this office is ſo proper to Chriſt, as, neither in the whole, not any part thereof, it can be transferred from him to any other. And to this office he was from everlaſting, and in reſpect of his Man<g ref="char:EOLhyphen"/>hood, from the wombe, called, ſeparated, and anointed moſt ful<g ref="char:EOLhyphen"/>ly with all neceſſary gifts, as it is written, God hath not meaſured out of the Spirit unto him.</p>
+            </div>
+            <div type="part">
+               <head>9. <hi>Concerning Chriſts propheticall Office.</hi>
+               </head>
+               <p>That Chriſt hath perfectly revealed the whole will of God, ſo far as it is needfull for his people either joyntly, or ſeverally to know, beleeve, or obey, and that he hath ſpoken, and doth ſpeak to his Church, in his own ordinances by thoſe inſtruments whom he ſendeth, and by his Spirit.</p>
+            </div>
+            <div type="part">
+               <head>10. <hi>Concerning the Prieſthood of Chriſt.</hi>
+               </head>
+               <p>That Chriſt being conſecrated hath appeared once to put away ſin<g ref="char:punc">▪</g> by the offering and ſacrificing of himſelf, and hath fully per<g ref="char:EOLhyphen"/>formed and ſuffered all thoſe things, by which, God through the blood of his croſſe, in a ſacrifice of a ſweet ſmelling ſavour, might be reconciled to his elect; and having broken down the partition wall, and finiſhed and removed thoſe ceremoniall rites, and ſha<g ref="char:EOLhyphen"/>dows, is now entred into the moſt holy place, (not made with hands) to the very heavens and preſence of God, where he for ever liveth, and ſitteth at the right hand of Majeſtie, to make in<g ref="char:EOLhyphen"/>terceſſion for ſuch as come unto the throne of grace by that new and living way: and he maketh his people a ſpirituall houſe, and an holy Prieſthood to offer up ſpirituall ſacrifices acceptable to God through him.</p>
+            </div>
+            <div type="part">
+               <head>11. <hi>Concerning Christs Kingly Office.</hi> 1. <hi>In generall.</hi>
+               </head>
+               <p>That Chriſt being riſen from the dead aſcended up to heaven, ſet at the right hand of God the Father, hath all power in heaven and earth given to him, and doth exerciſe his power in his go<g ref="char:EOLhyphen"/>vernment of this world over all Angels and men, good, and bad,
+<pb n="5" facs="tcp:112070:3"/>to the preſervation and ſalvation of his elect, and to the ruling and deſtruction of the reprobate: communicating and applying to his elect, the benefits, vertue, and fruit of his prophecie, and prieſt<g ref="char:EOLhyphen"/>hood to their regeneration, juſtification, ſanctification, preſer<g ref="char:EOLhyphen"/>vation, and ſtrengthening in all their ſpirituall conflicts againſt Satan, the world, and the fleſh, continually dwelling in them by his holy Spirit, begetting and nouriſhing in them faith, hope, love, repentance, obedience, with peace and joy unto immortali<g ref="char:EOLhyphen"/>tie: but on the contrary, limiting, uſing, reſtraining the reprobates his enemies by his mighty power, as ſeemeth good in his divine wiſdome and juſtice, to their ſeduction, hardning, and condemna<g ref="char:EOLhyphen"/>tion, till his appearing in glory with his mighty Angels to judge both quick and dead; where he will be and ſeparate all his elect from them for ever, puniſhing the wicked with everlaſting perdi<g ref="char:EOLhyphen"/>tion from his preſence; and joyning together the godly with him<g ref="char:EOLhyphen"/>ſelf in endleſſe glory.</p>
+            </div>
+            <div type="part">
+               <head>12. <hi>Concerning his Kingdom.</hi> 2. <hi>In ſpeciall.</hi>
+               </head>
+               <p>That in the mean time beſides his abſolute rule in the world, Chriſt hath here on earth a ſpirituall Kingdom in his Church, which he hath purchaſed and redeemed to himſelf as a peculiar inheritance; into the body whereof he doth by the power of his Word and Spirit, gather his people, talling them through the miniſtery of the Goſpel out of the world, and from idolatrie, ſu<g ref="char:EOLhyphen"/>perſtition, and from all works of darkneſſe to fellowſhip with Je<g ref="char:EOLhyphen"/>ſus Chriſt, and by him with the Father, and the holy Ghoſt, and with his people, making them a royall Prieſthood, an holy nati<g ref="char:EOLhyphen"/>on, a people ſet at libertie to ſhew forth the vertues of him that hath called them out of darkneſſe into his marvellous light, and uniteth them together as members of one body in his faith, love, and holy order unto all generall and mutuall duties: and inſtructs and governs them by thoſe inſtruments and ordinances which he himſelf hath preſcribed in his Word for the edification of his bo<g ref="char:EOLhyphen"/>die the Church.</p>
+            </div>
+            <div type="part">
+               <head>13. <hi>Concerning the Application of Redemption.</hi>
+               </head>
+               <p>That the holy Ghoſt is ſent by the Father and the Son to make application of Redemption onely to thoſe whom the Father hath by his eternall Decree given to Chriſt, and for whom Chriſt ma<g ref="char:EOLhyphen"/>keth interceſſion to his Father, and whom the Father accepts in Chriſt unto fellowſhip of the everlaſting covenant of his free grace, having called them out of the world to fellowſhip with Je<g ref="char:EOLhyphen"/>ſus Chriſt by the Goſpel made effectuall to that end, by the migh<g ref="char:EOLhyphen"/>tie power and operation of the holy Ghoſt. Which grace of effe<g ref="char:EOLhyphen"/>ctuall
+<pb n="6" facs="tcp:112070:4"/>calling is thus diſpenſed to a poore loſt ſinner awakened and humbled by the Law through the effectuall working of the ſpirit of bondage, judging himſelf worthy to be deſtroyed for his ſins, and ſeeing himſelf utterly deſtitute of all help or hope of him<g ref="char:EOLhyphen"/>ſelf; The Lord in the preaching of the Goſpel by the powerfull work of the holy Ghoſt, revealeth the fulneſſe and all-ſufficiencie of that grace, and ſalvation which is laid up in Jeſus Chriſt, as the onely ſutable good to him, that he alſo enableth him ſpiritually and ſavingly to apprehend Jeſus Chriſt as given him of the Fa<g ref="char:EOLhyphen"/>ther. And the ſame Spirit having thus inlightned him, doth leav a ſupernaturall vertue, and impreſſion of Gods love upon the ſom, whereby the ſoul is drawn to cloſe with Chriſt, and with that grace of God in him, ſo entirely that there is now nothing be<g ref="char:EOLhyphen"/>tween Chriſt and the ſoul but it willingly parts with all things that hinder his injoying of Chriſt; and by this effectuall calling all that are brought to Chriſt, are, 1. juſtified, that is abſolved from ſin and death, and accounted righteous unto life, for, and through Chriſt apprehended, received, and relied upon by faith. 2. They are adopted, that is, accepted for Chriſts ſake to the dignitie of Gods children; they are alſo, 3. ſanctified, that is, really changed by degrees from the impurity of ſin, to the puritie of Gods Image; and laſtly, they are glorified, that is, changed from the miſerie or puniſhment of ſin, unto everlaſting happineſſe, which begins in the inward ſenſe of Gods love to them in Chriſt, whence they have hope of glory, boldneſſe in acceſſe to God certainty of ſal<g ref="char:EOLhyphen"/>vation, peace, joy unſpeakable; and it endeth in their full perfe<g ref="char:EOLhyphen"/>ction in ſoul and body.</p>
+            </div>
+            <div type="part">
+               <head>14. <hi>Concerning a particular inſtituted Church, and the Priviledges thereof.</hi>
+               </head>
+               <p>That it is a company of faithfull and holy people, or perſons, called out of the world to fellowſhip with Jeſus Chriſt, and united in one congregation to him as members to their head, and one with another, by a holy covenant for mutuall fellowſhip in all ſuch wayes of holy worſhip of God, and of edification one towards another, as God himſelf hath required in his Word of everie Church of Chriſt, and the members thereof.</p>
+            </div>
+            <div type="part">
+               <head>15. <hi>Concerning the manner of gathering a Church.</hi>
+               </head>
+               <p>That it is the dutie of all Chriſtians, having renounced all falſe wayes of idolatrous, Antichriſtian, and ſuperſtitious worſhip, and of ſin, and the world (as to inſtruct and govern their own families according to God, ſo) to joyn willingly together in Chriſtian communion and orderly covenant, and by free confeſſion of the
+<pb n="7" facs="tcp:112070:4"/>faith, and profeſſion of their ſubjection to the Goſpel of Chriſt, to unite themſelves unto peculiar and viſible Congregations, wherin as members of one body, whereof Chriſt is the head, they are to worſhip God according to his Word: To this Church he hath given royall priviledges, as the holy Oracles, the Promiſes, the ſeals of the Covenant, his preſence, love, protection, and bleſſing in a ſpeciall manner, here all that acknowledge him to be their Prophet, Prieſt, and King, are to be inrolled amongſt his houſhold ſervants and to preſent their bodies, and ſouls, and gifts, and ſo<g ref="char:EOLhyphen"/>lemne ſervices for a ſpirituall ſacrifice acceptable to God by Jeſus Chriſt. Being thus united, they to whom God hath given gifts to interpret the Scriptures, being approved by the Church, and ap<g ref="char:EOLhyphen"/>pointed thereunto, may, and ought to teach publikely the Word of God, by prophecying according to the proportion of faith for edification, exhortation, and comfort of the Church, till ſuch time as men may be had fit to ſuch office or offices as Chriſt hath ap<g ref="char:EOLhyphen"/>pointed to the publike Miniſtery of his Church; and then they are upon due triall to proceed to the choice, and ordination of thoſe officers according to God: and then the officers are to diſpenſe the ſeals of the covenant, <hi>viz.</hi> Baptiſme to the ſeed of the faithfull in their infancy, and to others not yet baptized, when by profeſſion of their faith they are added to the Church: And all of the Church that are of yeers, and are able to examine themſelves, muſt com<g ref="char:EOLhyphen"/>municate alſo in the Lords Supper in both kinds, <hi>viz.</hi> bread and wine.</p>
+            </div>
+            <div type="part">
+               <head>16. <hi>Concerning the Sacraments.</hi>
+               </head>
+               <p>That they are in the ordinance of God ſigns and ſeals of Gods everlaſting covenant with us, repreſenting and offering to all re<g ref="char:EOLhyphen"/>ceivers, but exhibiting onely to true beleevers the Lord Jeſus Chriſt and all his benefits unto righteouſneſſe, ſanctification, and eternall life, through faith in his name to the glory and praiſe of God.</p>
+            </div>
+            <div type="part">
+               <head>17. <hi>Concerning the power of every Church.</hi>
+               </head>
+               <p>That Chriſt hath given the power of chuſing Officers, and of receiving in, or calling of any member, to the whole body toge<g ref="char:EOLhyphen"/>ther of every Church, and not to any one member apart, or to more members ſequeſtred from the whole, or to any other Con<g ref="char:EOLhyphen"/>gregation to do it for them: yet ſo as every Church ought to uſe the beſt help they can hereunto, and the moſt meet member they have to pronounce the ſame in their publike Aſſemblie, if they want Officers. And to this cenſure and judgement of Chriſt, duely and orderly diſpenſed, every member of the Congregation, yea,
+<pb n="8" facs="tcp:112070:5"/>and officer alſo how excellent or learned ſoever he be, is ſubject. Yet ought not the Church without great care and advice to pro<g ref="char:EOLhyphen"/>ceed againſt ſuch publike perſons.</p>
+            </div>
+            <div type="part">
+               <head>18. <hi>Concerning the Communion of Churches.</hi>
+               </head>
+               <p>That although particular Churches be diſtinct and ſeverall in<g ref="char:EOLhyphen"/>dependant bodies, every one as a city compact within its ſelf, with<g ref="char:EOLhyphen"/>out ſubordination under or dependance upon any other but Jeſus Chriſt, yet are all Churches to walk by one and the ſame rule, and by all means convenient to have the counſell and help one of ano<g ref="char:EOLhyphen"/>ther when need requireth, as members of one body in the com<g ref="char:EOLhyphen"/>mon faith under Chriſt their onely head.</p>
+            </div>
+            <div type="part">
+               <head>19. <hi>Concerning Church Officers.</hi>
+               </head>
+               <p>That Chriſt when he aſcended up on high gave gifts unto men, and diſpoſed of them in ſeverall functions, and for publike ordi<g ref="char:EOLhyphen"/>nary miniſtery, he gave Paſtors, Teachers, Elders, Deacons, help<g ref="char:EOLhyphen"/>ers, for the inſtruction, government, and ſervice of his Church to the worlds end; and that none may uſurpe or execute a Miniſtery in the Church, but ſuch as are rightly called by the Church, wher<g ref="char:EOLhyphen"/>of they ſtand Miniſters, and being ſo called they ought to give all diligence to fulfill their miniſtery, and to be found faithfull, and unblameable in all things: And that this miniſtery is alike given to every Church of Chriſt, with like and equall power, and commiſ<g ref="char:EOLhyphen"/>ſion to have and enjoy the ſame as God offereth fit men, and means, and the ſame rules are given to all for the election and exe<g ref="char:EOLhyphen"/>cution thereof in all places: which rules and laws it is not lawfull for thoſe Miniſters, or for the Church, wittingly to neglect, or tranſgreſſe in any part. And thoſe Miniſters thus choſen, and exe<g ref="char:EOLhyphen"/>cuting their office faithfully; every Church is bound to have them in ſingular love for their works ſake, to reverence them according to the dignity of their office which they execute, and to provide for them that they be not entangled with the cares of this life, ac<g ref="char:EOLhyphen"/>cording to the law of Chriſt: And this to do not as in way of cour<g ref="char:EOLhyphen"/>teſie or mercie, but out of duty to them in the Lord; and having hope in God that the reſurrection ſhall be of the juſt and of the un<g ref="char:EOLhyphen"/>juſt; of the juſt, to the reſurrection of life, and of the unjuſt to the reſurrection of condemnation.</p>
+            </div>
+            <div type="part">
+               <head>20. <hi>Concerning giving every man his due.</hi>
+               </head>
+               <p>That unto all men is to be given whatſoever is due to them, in regard of their office, place, gifts, wages, eſtate, and condition; en<g ref="char:EOLhyphen"/>deavouring our ſelves to have alwayes a conſcience void offence towards God, and towards men.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
